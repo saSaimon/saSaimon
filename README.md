@@ -1,5 +1,7 @@
 ### Hi there 👋, I am Sadiqul Alam Saimon
 #### An SQA Team Lead, and PM Specialist.
+![An SQA Team Lead, and PM Specialist.](https://camo.githubusercontent.com/ef82241b68040dfe32342acfbe4e6897269a23fd6d87ae64af03ca422d48ca00/68747470733a2f2f7062732e7477696d672e636f6d2f70726f66696c655f62616e6e6572732f323237303539363832322f313635353139303230392f3135303078353030)
+
 Hello! I am a highly skilled professional with a strong passion for technology and innovation. I have a Bachelor of Science degree in Electrical and Electronic Engineering and have gained valuable experience in the IT industry as a Project Manager, Product Owner, and full-stack SQA Engineer.
 
 Throughout my career, I have worked with a variety of cutting-edge technologies and have developed expertise in QA testing and programming languages such as Python. This has given me a deep understanding of the software development life cycle and project management methodologies, allowing me to effectively manage projects and lead teams to successful project delivery.
